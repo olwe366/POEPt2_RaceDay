@@ -11,8 +11,8 @@ RACEDAY is a Razor Pages web application targeting .NET 10. This repository cont
 ## Getting Started
 
 1. Clone the repository (already cloned in this workspace):
-   - Remote: https://github.com/mahlemyeni/RACEDAY
-   - Local path in this workspace: `C:\Users\amahl\source\repos\RACEDAY`
+   - Remote: https://github.com/olwe366/POEPt2_RaceDay.git
+   
 
 2. Open the solution
    - Visual Studio: `C:\Users\amahl\source\repos\RACEDAY\RACEDAY.slnx`
@@ -62,4 +62,4 @@ Follow repository coding standards and include tests where applicable.
 
 ## Contact
 
-Repository: https://github.com/mahlemyeni/RACEDAY
+Repository: https://github.com/olwe366/POEPt2_RaceDay.git
